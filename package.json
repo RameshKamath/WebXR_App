@@ -1,0 +1,17 @@
+{
+  "name": "webxr_app",
+  "version": "1.0.0",
+  "description": "A WebXR Test Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "WebXR",
+    "WebAR",
+    "Augmented",
+    "Reality"
+  ],
+  "author": "Ramesh Kamath",
+  "license": "ISC"
+}
